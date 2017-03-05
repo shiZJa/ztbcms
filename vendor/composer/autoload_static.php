@@ -21,6 +21,10 @@ class ComposerStaticInite766d226433bf0c120f1dc5e51097aee
             'Symfony\\Component\\HttpFoundation\\' => 33,
             'Symfony\\Bridge\\PsrHttpMessage\\' => 30,
         ),
+        'R' => 
+        array (
+            'Respect\\Validation\\' => 19,
+        ),
         'P' => 
         array (
             'Psr\\Log\\' => 8,
@@ -62,6 +66,10 @@ class ComposerStaticInite766d226433bf0c120f1dc5e51097aee
         'Symfony\\Bridge\\PsrHttpMessage\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/psr-http-message-bridge',
+        ),
+        'Respect\\Validation\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/respect/validation/library',
         ),
         'Psr\\Log\\' => 
         array (

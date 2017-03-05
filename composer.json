@@ -1,5 +1,6 @@
 {
     "require": {
-        "overtrue/wechat": "~3.2"
+        "overtrue/wechat": "~3.2",
+        "respect/validation": "^1.1"
     }
 }
