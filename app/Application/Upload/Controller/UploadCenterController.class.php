@@ -20,5 +20,8 @@ class UploadCenterController extends AdminBase
         $this->display();
     }
 
+    function imageManagePanel(){
+        $this->display();
+    }
 
 }
